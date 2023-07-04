@@ -1,0 +1,1 @@
+from .basic_cnns_mctc import basic_cnn_segm_sigmoid
